@@ -1,0 +1,51 @@
+.btnLock {
+    background-color: #fa616b;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnLock:hover {
+    background-color: #d90000;
+}
+
+.btnUnLock {
+    background-color: #15b604;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnUnLock:hover {
+    background-color: #227f03;
+}
+
+.btnEdit {
+    background-color: #f5e975;
+    border: none;
+    color: #070000;
+    padding: 12px 30px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnEdit:hover {
+    background-color: #a8c703;
+}
+
+.btnCheck {
+    background-color: #fa616b;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnCheck:hover {
+    background-color: #039e00;
+}

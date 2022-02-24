@@ -1,0 +1,39 @@
+.btnVisit {
+    background-color: #57c2ec;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnVisit:hover {
+    background-color: #005e90;
+}
+
+.btnBookmark {
+    background-color: #72ec57;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnBookmark:hover {
+    background-color: #066615;
+}
+
+.btnDelete {
+    background-color: #ec5775;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnDelete:hover {
+    background-color: #66061c;
+}
+
